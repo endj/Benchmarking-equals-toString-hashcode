@@ -1,3 +1,6 @@
+# Benchmark
+Compares toString, equals and hascode for 3 variations.
+```
 # JMH version: 1.25.2
 # VM version: JDK 11.0.5, OpenJDK 64-Bit Server VM, 11.0.5+10
 # VM invoker: /home/ed/.sdkman/candidates/java/11.0.5.hs-adpt/bin/java
